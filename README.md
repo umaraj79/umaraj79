@@ -1,4 +1,6 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### WELCOME TO MY GITHUB PROFILE... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://www.instagram.com/techshz/">
   <img align="left" alt="Umar's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -19,12 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 21 mins   █████░ ░░░░░░░░░░░░░░░░░░   36.49 %
-MDX          3 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
-JavaScript   3 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   20.57 %
-SCSS         1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-HTML         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+
 ```
 
 <!--END_SECTION:waka-->
