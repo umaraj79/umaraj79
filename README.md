@@ -1,6 +1,10 @@
-### WELCOME TO MY GITHUB PROFILE... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is Umar Shahzad and I'm holding a double degree in Computer Science and currently pursuing MsC in Information Systems at Lund University. I'm from Pakistan, living in Malmö, Sweden and currently working at NoWhere[Have a JOB?]. 
+
+You can find me on on LinkedIn 📧.
+
 
 <a href="https://www.instagram.com/techshz/">
   <img align="left" alt="Umar's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
